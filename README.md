@@ -32,15 +32,8 @@ Model Results
 | Accuracy      | 78.6%           |
 | Precision     | 0.82            |
 | Recall        | 0.81            |
-| F1 Score      | 0.76           |
+| F1 Score      | 0.76            |
 
-📂 Files in this Repository
-
-| File | Description |
-|------|-------------|
-| `diabetes_prediction_analysis.ipynb` | Full analysis in Colab |
-| `diabetes.csv` (optional) | Dataset used (can be linked instead of uploaded) |
-| `README.md` | Project summary |
 
 Author
 Abinaya S. – Final Year Biotechnology Student | Data Science Minor  
